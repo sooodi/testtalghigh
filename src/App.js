@@ -27,7 +27,7 @@ const App = props => {
     return (
         <View style={styles.container}>
             <Text style={styles.welcome}>
-                Welcome to React Native Navigation Sample!
+                Welcome  ooooto React Native Navigation Sample!
             </Text>
             <Button
                 onPress={() => navigate("SecondScreen")}
